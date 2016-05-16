@@ -224,21 +224,10 @@ linters:
       - border-width
       - border-color
       - border-style
-      - border-radius
-      - border-spacing
-      - border-collapse
-      - border-image
-      - border-image-source
-      - border-image-width
-      - border-image-outset
-      - border-image-repeat
-      - border-image-slice
       - border-top
       - border-top-width
       - border-top-color
       - border-top-style
-      - border-top-right-radius
-      - border-top-left-radius
       - border-right
       - border-right-width
       - border-right-color
@@ -247,12 +236,23 @@ linters:
       - border-bottom-width
       - border-bottom-color
       - border-bottom-style
-      - border-bottom-right-radius
-      - border-bottom-left-radius
       - border-left
       - border-left-width
       - border-left-color
       - border-left-style
+      - border-radius
+      - border-top-right-radius
+      - border-top-left-radius
+      - border-bottom-right-radius
+      - border-bottom-left-radius
+      - border-image
+      - border-image-source
+      - border-image-width
+      - border-image-outset
+      - border-image-repeat
+      - border-image-slice
+      - border-collapse
+      - border-spacing
       - box-shadow
       - clip
       - clip-path
