@@ -30,7 +30,7 @@
     "use-isnan": [ "warn" ],
     "valid-jsdoc": [ "warn" ],
     "valid-typeof": [ "error" ],
-    "curly": [ "warn", "multi" ],
+    "curly": [ "warn" ],
     "default-case": [ "warn" ],
     "dot-location": [ "warn", "property" ],
     "eqeqeq": [ "warn", "smart" ],
