@@ -86,7 +86,7 @@
     "comma-spacing": [ "warn" ],
     "comma-style": [ "warn" ],
     "computed-property-spacing": [ "warn" ],
-    "indent": [ "warn", { "SwitchCase": 1 } ],
+    "indent": [ "warn", 4, { "SwitchCase": 1 } ],
     "key-spacing": [ "warn", { "align": "value" } ],
     "keyword-spacing": [ "warn" ],
     "linebreak-style": [ "warn" ],
