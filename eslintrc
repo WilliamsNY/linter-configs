@@ -31,7 +31,6 @@
     "valid-jsdoc": [ "warn" ],
     "valid-typeof": [ "error" ],
     "curly": [ "warn" ],
-    "default-case": [ "warn" ],
     "dot-location": [ "warn", "property" ],
     "eqeqeq": [ "warn", "smart" ],
     "guard-for-in": [ "warn" ],
