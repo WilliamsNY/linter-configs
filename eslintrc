@@ -55,7 +55,6 @@
     "no-multi-spaces": [ "warn" ],
     "no-multi-str": [ "warn" ],
     "no-native-reassign": [ "warn" ],
-    "no-new": [ "warn" ],
     "no-new-func": [ "warn" ],
     "no-new-wrappers": [ "warn" ],
     "no-octal": [ "warn" ],
