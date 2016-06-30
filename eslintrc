@@ -28,7 +28,6 @@
     "no-unreachable": [ "warn" ],
     "no-unsafe-finally": [ "warn" ],
     "use-isnan": [ "warn" ],
-    "valid-jsdoc": [ "warn" ],
     "valid-typeof": [ "error" ],
     "curly": [ "warn" ],
     "dot-location": [ "warn", "property" ],
