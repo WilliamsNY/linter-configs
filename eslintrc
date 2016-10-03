@@ -4,6 +4,7 @@
     "ecmaVersion": 6,
     "sourceType": "module"
   },
+  "plugins": [ "html"],
   "rules": {
     "strict": 0,
     "comma-dangle": [ "warn" ],
