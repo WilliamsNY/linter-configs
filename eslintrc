@@ -70,7 +70,6 @@
     "no-unused-labels": [ "warn" ],
     "no-useless-call": [ "warn" ],
     "no-useless-concat": [ "warn" ],
-    "no-useless-escape": [ "warn" ],
     "no-void": [ "warn" ],
     "no-with": [ "warn" ],
     "radix": [ "warn" ],
