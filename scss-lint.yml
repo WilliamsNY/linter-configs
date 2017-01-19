@@ -221,24 +221,24 @@ linters:
       - outline-style
       - outline-offset
       - border
-      - border-width
-      - border-color
-      - border-style
       - border-top
-      - border-top-width
-      - border-top-color
-      - border-top-style
       - border-right
-      - border-right-width
-      - border-right-color
-      - border-right-style
       - border-bottom
-      - border-bottom-width
-      - border-bottom-color
-      - border-bottom-style
       - border-left
+      - border-width
+      - border-top-width
+      - border-right-width
+      - border-bottom-width
       - border-left-width
+      - border-color
+      - border-top-color
+      - border-right-color
+      - border-bottom-color
       - border-left-color
+      - border-style
+      - border-top-style
+      - border-right-style
+      - border-bottom-style
       - border-left-style
       - border-radius
       - border-top-right-radius
