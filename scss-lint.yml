@@ -200,6 +200,7 @@ linters:
       - order
       - justify-content
       - align-content
+      - justify-self
       - align-items
       - align-self
       - columns
