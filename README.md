@@ -4,9 +4,9 @@ Configurations for linters used at WNY
 
 ## SCSS
 
-* Linter: [scss-lint](https://github.com/brigade/scss-lint)
-* Config: `scss-lint.yml`
-* Install: `~/.scss-lint.yml`
+* Linter: [sass-lint](https://github.com/sasstools/sass-lint)
+* Config: `sass-lint.yml`
+* Install: `~/.sass-lint.yml`
 
 ## Javascript
 
