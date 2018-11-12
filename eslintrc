@@ -6,7 +6,7 @@
     },
 
     "extends": [
-        "plugin:vue/essential"
+        "plugin:vue/recommended"
     ],
 
     "rules": {
@@ -122,7 +122,26 @@
                 "vue/no-unused-components": [ "warn" ],
                 "vue/no-unused-vars": [ "warn" ],
                 "vue/no-use-v-if-with-v-for": [ "warn" ],
-                "vue/require-v-for-key": "off"
+                "vue/require-v-for-key": "off",
+                "vue/attribute-hyphenation": [ "warn" ],
+                "vue/html-closing-bracket-newline": "off",
+                "vue/html-closing-bracket-spacing": [ "warn", { "startTag": "never", "endTag": "never", "selfClosingTag": "always" } ],
+                "vue/html-indent": "off",
+                "vue/html-self-closing": "off",
+                "vue/max-attributes-per-line": [ "warn", { "singleline": 3, "multiline": { "max": 1, "allowFirstLine": false } } ],
+                "vue/mustache-interpolation-spacing": [ "warn" ],
+                "vue/name-property-casing": [ "warn" ],
+                "vue/no-multi-spaces": [ "warn" ],
+                "vue/prop-name-casing": [ "warn" ],
+                "vue/require-default-prop": "off",
+                "vue/require-prop-types": [ "warn" ],
+                "vue/v-bind-style": [ "warn" ],
+                "vue/v-on-style": [ "warn" ],
+                "vue/attributes-order": [ "warn" ],
+                "vue/html-quotes": [ "warn" ],
+                "vue/no-v-html": "off",
+                "vue/order-in-components": [ "warn", { "order": [ "el", "name", "parent", "functional", [ "delimiters", "comments" ], [ "mixins", "extends" ], [ "components", "directives", "filters" ], "inheritAttrs", "model", [ "props", "propsData" ], "data", "computed", "methods", "beforeCreate", "created", "beforeMount", "mounted", "beforeUpdate", "updated", "activated", "deactivated", "watch", "beforeDestroy", "destroyed", [ "template", "render" ], "renderError" ] } ],
+                "vue/this-in-template": [ "warn" ]
             }
         }
     ]
