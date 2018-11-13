@@ -107,7 +107,7 @@
         "space-infix-ops": [ "warn" ],
         "space-unary-ops": [ "warn" ],
         "spaced-comment": [ "warn" ],
-        "wrap-regex": [ "warn" ],
+        "wrap-regex": [ "warn" ]
     },
 
     "overrides": [
