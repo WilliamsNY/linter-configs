@@ -136,6 +136,7 @@
                 "vue/prop-name-casing": [ "warn" ],
                 "vue/require-default-prop": "off",
                 "vue/require-prop-types": [ "warn" ],
+                "vue/singleline-html-element-content-newline": "off",
                 "vue/v-bind-style": [ "warn" ],
                 "vue/v-on-style": [ "warn" ],
                 "vue/attributes-order": [ "warn" ],
