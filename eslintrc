@@ -129,6 +129,7 @@
                 "vue/html-indent": "off",
                 "vue/html-self-closing": "off",
                 "vue/max-attributes-per-line": [ "warn", { "singleline": 3, "multiline": { "max": 1, "allowFirstLine": false } } ],
+                "vue/multiline-html-element-content-newline": "off",
                 "vue/mustache-interpolation-spacing": [ "warn" ],
                 "vue/name-property-casing": [ "warn" ],
                 "vue/no-multi-spaces": [ "warn" ],
