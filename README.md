@@ -11,6 +11,9 @@ Configurations for linters used at WNY
 ## Javascript
 
 * Linter: [eslint](https://github.com/eslint/eslint)
-* Modules: [babel-eslint](https://github.com/babel/babel-eslint), [eslint-plugin-vue@next](https://github.com/vuejs/eslint-plugin-vue)
+* Modules:
+  * [babel-eslint](https://github.com/babel/babel-eslint)
+  * [eslint-plugin-vue@next](https://github.com/vuejs/eslint-plugin-vue)
+  * [eslint-plugin-json](https://github.com/azeemba/eslint-plugin-json)
 * Config: `eslintrc`
 * Install: `~/.eslintrc`
