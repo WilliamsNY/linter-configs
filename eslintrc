@@ -114,6 +114,14 @@
 
     "overrides": [
         {
+            "files": [ "*" ],
+
+            "rules": {
+                "vue/multi-word-component-names": "off"
+            }
+        },
+
+        {
             "files": [ "*.vue" ],
 
             "rules": {
@@ -131,7 +139,6 @@
                 "vue/html-indent": "off",
                 "vue/html-self-closing": "off",
                 "vue/max-attributes-per-line": [ "warn", { "singleline": 4, "multiline": { "max": 1 } } ],
-                "vue/multi-word-component-names": "off",
                 "vue/multiline-html-element-content-newline": "off",
                 "vue/mustache-interpolation-spacing": [ "warn" ],
                 "vue/name-property-casing": [ "warn", "kebab-case" ],
