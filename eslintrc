@@ -151,7 +151,7 @@
                 "vue/attributes-order": [ "warn" ],
                 "vue/html-quotes": [ "warn" ],
                 "vue/no-v-html": "off",
-                "vue/order-in-components": [ "warn", { "order": [ "el", "name", "parent", "functional", [ "delimiters", "comments" ], [ "mixins", "extends" ], [ "components", "directives", "filters" ], "inheritAttrs", "model", [ "props", "propsData" ], "setup", "emits", "data", "computed", "methods", "beforeCreate", "created", "beforeMount", "mounted", "beforeUpdate", "updated", "activated", "deactivated", "watch", "beforeDestroy", "destroyed", [ "template", "render" ], "renderError" ] } ],
+                "vue/order-in-components": [ "warn", { "order": [ "el", "name", "parent", "functional", [ "delimiters", "comments" ], [ "mixins", "extends" ], [ "components", "directives", "filters" ], "inheritAttrs", "model", [ "props", "propsData" ], "emits", "data", "computed", "methods", "setup", "beforeCreate", "created", "beforeMount", "mounted", "beforeUpdate", "updated", "activated", "deactivated", "watch", "beforeDestroy", "destroyed", [ "template", "render" ], "renderError" ] } ],
                 "vue/this-in-template": [ "warn" ]
             }
         }
