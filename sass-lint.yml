@@ -257,6 +257,7 @@ rules:
         - mask-position
         - mask-size
         - mask-repeat
+        - mask-mode
         - mask-type
         - mask-clip
         - object-position
