@@ -253,8 +253,12 @@ rules:
         - clip
         - clip-path
         - mask
+        - mask-image
         - mask-position
         - mask-size
+        - mask-repeat
+        - mask-type
+        - mask-clip
         - object-position
         - background
         - background-color
