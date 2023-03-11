@@ -1,4 +1,6 @@
 {
+    requireConfigFile: false,
+
     "parserOptions": {
         "parser": "@babel/eslint-parser",
         "sourceType": "module",
