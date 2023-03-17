@@ -1,10 +1,9 @@
 {
-    requireConfigFile: false,
-
     "parserOptions": {
         "parser": "@babel/eslint-parser",
         "sourceType": "module",
-        "allowImportExportEverywhere": true
+        "allowImportExportEverywhere": true,
+        "requireConfigFile": false
     },
 
     "extends": [
