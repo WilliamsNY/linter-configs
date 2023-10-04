@@ -185,6 +185,7 @@ rules:
         - grid-template-areas
         - grid-template-rows
         - grid-template-columns
+        - gap
         - flex
         - flex-basis
         - flex-direction
