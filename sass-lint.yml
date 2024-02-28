@@ -158,13 +158,13 @@ rules:
         - visibility
         - display
         - box-sizing
-        - aspect-ratio
         - width
         - min-width
         - max-width
         - height
         - min-height
         - max-height
+        - aspect-ratio
         - padding
         - padding-top
         - padding-right
