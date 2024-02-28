@@ -401,7 +401,7 @@ rules:
     - 1
     - include: true
   space-around-operator:
-    - 1
+    - 0
     - include: true
   space-before-bang:
     - 1
