@@ -9,6 +9,7 @@ Linters @ Williams New York
 * Linter:
   * [stylelint](https://github.com/stylelint/stylelint)
 * Modules:
+  * [postcss](https://github.com/postcss/postcss)
   * [stylelint-config-recommended-scss](https://github.com/stylelint-scss/stylelint-config-recommended-scss)
   * [stylelint-order](https://github.com/hudochenkov/stylelint-order)
   * [stylelint-stylistic](https://github.com/stylelint-stylistic/stylelint-stylistic)
@@ -16,7 +17,7 @@ Linters @ Williams New York
 #### Install
 
 ```
-npm install -g stylelint stylelint-config-recommended-scss stylelint-order @stylistic/stylelint-plugin
+npm install -g stylelint postcss stylelint-config-recommended-scss stylelint-order @stylistic/stylelint-plugin
 ```
 
 ### Config
