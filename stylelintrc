@@ -98,6 +98,7 @@
         "scss/load-no-partial-leading-underscore": null,
 
         "scss/no-duplicate-dollar-variables": true,
+        "scss/no-global-function-names": null,
         "scss/no-unused-private-members": [ true, { "severity": "warning" } ],
 
         "@stylistic/color-hex-case": [ "lower", { "severity": "warning" } ],
