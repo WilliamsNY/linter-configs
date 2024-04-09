@@ -49,7 +49,7 @@
         "selector-attribute-quotes": [ "always", { "severity": "warning" } ],
 
         "declaration-block-no-redundant-longhand-properties": [ true, { "severity": "warning" } ],
-        "shorthand-property-no-redundant-values": [ true, { "severity": "warning" } ],
+        "shorthand-property-no-redundant-values": null,
 
         "comment-whitespace-inside": [ "always", { "severity": "warning" } ],
 
