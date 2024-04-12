@@ -44,6 +44,20 @@ ln -s "$(readlink -f stylelintrc)" ~/.stylelintrc
 
 #### Install
 
+Add this to your `~/.bashrc`:
+
+```
+export npm_config_prefix="$HOME/.node"
+export NODE_PATH="$HOME/.node/lib/node_modules"
+export ESLINT_USE_FLAT_CONFIG=false
+
+function eslint {
+  npx eslint --config ~/.eslintrc --resolve-plugins-relative-to ~/.node/lib "$@" 2>/dev/null
+}
+```
+
+Then install with:
+
 ```
 npm install -g eslint @babel/eslint-parser eslint-plugin-vue eslint-plugin-json
 ```
