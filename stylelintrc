@@ -60,6 +60,8 @@
         "scss/at-else-empty-line-before": [ "never", { "severity": "warning" } ],
         "scss/at-else-if-parentheses-space-before": [ "always", { "severity": "warning" } ],
 
+        "scss/at-extend-no-missing-placeholder": [ true, { "severity": "warning" } ],
+
         "scss/at-function-pattern": [ "^([a-z][a-z0-9]*)(-[a-z0-9]+)*$", { "severity": "warning", "message": "Expected function name to be kebab-case" } ],
 
         "scss/at-import-partial-extension": null,
