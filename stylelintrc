@@ -11,6 +11,8 @@
     "rules": {
         "no-descending-specificity": null,
 
+        "block-no-empty": [ true, { "severity": "warning" } ],
+
         "no-empty-source": null,
 
         "font-family-no-missing-generic-family-keyword": null,
