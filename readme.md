@@ -40,7 +40,6 @@ ln -s "$(readlink -f stylelintrc)" ~/.stylelintrc
 * Modules:
   * [@babel/eslint-parser](https://github.com/babel/babel-eslint)
   * [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)
-  * [eslint-plugin-json](https://github.com/azeemba/eslint-plugin-json)
 
 #### Install
 
@@ -59,7 +58,7 @@ function eslint {
 Then install with:
 
 ```
-npm install -g eslint @babel/eslint-parser eslint-plugin-vue eslint-plugin-json
+npm install -g eslint @babel/eslint-parser eslint-plugin-vue
 ```
 
 ### Config
