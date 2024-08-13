@@ -58,7 +58,7 @@ function eslint {
 Then install with:
 
 ```
-npm install -g eslint @babel/eslint-parser eslint-plugin-vue
+npm install -g eslint @babel/eslint-parser @babel/preset-env eslint-plugin-vue
 ```
 
 ### Config
