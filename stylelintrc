@@ -192,6 +192,7 @@
             "right",
             "bottom",
             "left",
+            "inset",
             "transform",
             "transform-origin",
             "transform-style",
