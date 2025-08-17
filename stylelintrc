@@ -10,7 +10,8 @@
 
     "rules": {
         "no-descending-specificity": null,
-        "nesting-selector-no-missing-scoping-root": null,
+
+        "nesting-selector-no-missing-scoping-root": [ true, { "ignoreAtRules": [ "mixin" ], }]
 
         "block-no-empty": [ true, { "severity": "warning" } ],
 
