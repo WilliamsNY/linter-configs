@@ -367,6 +367,7 @@
             "text-decoration-color",
             "text-decoration-style",
             "text-decoration-line",
+            "text-underline-offset",
             "text-shadow",
             "text-emphasis",
             "text-emphasis-color",
